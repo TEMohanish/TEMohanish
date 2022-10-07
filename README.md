@@ -8,8 +8,8 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=geetasandhya&theme=vue-dark&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetasandhya&theme=vue-dark&layout=compact&card_width=445&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=TEMohanish&theme=vue-dark&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TEMohanish&theme=vue-dark&layout=compact&card_width=445&show_icons=true&count_private=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geetasandhya&theme=vue-dark&show_icons=true&count_private=true&" alt="geetasandhya" /></p>
 
