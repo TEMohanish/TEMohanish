@@ -1,0 +1,7 @@
+- HI My Name Is Mohanish
+- 🔭 I’m currently working on Recording Bots
+- 🌱 I’m currently Python
+- 👯 I’m looking to collaborate on Media Function Bots & Recording bots
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: On Telegram https:t.me/TE_Mohanish
